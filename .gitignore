@@ -1,0 +1,8 @@
+__*
+logs
+.php_cs*
+*.bat
+tests.php
+dev
+local
+TODO.*
