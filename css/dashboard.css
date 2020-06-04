@@ -62,7 +62,7 @@ body {
 
 
 #afsa_theme_selector {
-	z-index: 99999;
+	z-index: 999991 !important;
 }
 
 
@@ -163,13 +163,35 @@ ul.afsa_products_list li .afsa_rank {
 
 
 .afsa_combo_panel {
-	z-index: 999991;
+	z-index: 999991 !important;
 }
 
 #afsa_w_traffic .afsa_chart_panel .afsa_summary li .afsa_value {
 	bottom: 30px;
 }
 
-/*
-.toplevel_page_afsa_dashboard .wp-submenu .wp-first-item { display: none; }
-*/
+
+/* Mobile */
+
+@media screen and (max-width: 780px) {
+
+	.afsa_main {
+		margin-left: 0;
+	}
+
+
+	.afsa_main #afsa_w_menubar {
+		top: 46px;
+	}
+
+
+	#afsa_container_panel_menu {
+		z-index: 999992;
+	}
+
+
+	#afsa_dboard_config_panel .afsa_top_close {
+		color: white;
+	}
+
+}

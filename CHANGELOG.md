@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 2.02 - 2020-06-04
+
+- Improved account creation workflow.
+- WooCommerce 4.2.0 support
+- Better handling of WooCommerce products with no sku.
+
 ## 2.01 - 2020-05-30
 
 - Fixed nginx unsupported function call.

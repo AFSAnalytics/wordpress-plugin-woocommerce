@@ -3,8 +3,8 @@ Contributors: AddFreeStats
 Requires at least: 3.5.0
 Tested up to: 5.4.1
 Requires PHP: 5.3
-Stable tag: 2.01
-Tags: analytics, afsanalytics, event tracking, heatmaps, real-time analytics, analytics dashboard, tracking, track visitor, admin tracking, statistics, counter, stats, tracking, track page, tracker, geolocation, sale tracking, user tracking, real-time tracking, visitor tracking, track visitors, heatmaps, ip tracking,  online users, tracker, pageviews, admin tracking, counter,e-commerce tracking, track keyword, keyword position, woocommerce tracking, predictive analytics, referrer, website analytics, web analytics, website statistics
+Stable tag: 2.02
+Tags: analytics, afsanalytics, woocommerce, heatmaps, real-time analytics, analytics dashboard, tracking, track visitor, admin tracking, statistics, counter, stats, tracking, track page, tracker, geolocation, sale tracking, user tracking, real-time tracking, visitor tracking, track visitors, online users, pageviews, counter, e-commerce tracking, track keyword, keyword position, woocommerce tracking, predictive analytics, referrer, website analytics, web analytics, website statistics
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,26 +12,38 @@ Advanced eCommerce Analytics solution. Grow your online business by measuring us
 
 == Description ==
 
-Full featured [Web Analytics solution](https://www.afsanalytics.com). 
+Full featured Web Analytics solution with enhanced eCommerce support. 
 Easy to use, in addition or as an alternative to google analytics.
 
-This version comes with full Woocommerce support.
-Monitor transactions, sales, products, customer's entire profile and history,
-marketing campaigns performances, conversions, an more... 
+This version comes with enhanced WooCommerce support.
 
 https://www.youtube.com/watch?v=FQOHW3Ygijw
 
 
+** Monitor every aspect of your WooCommerce store **
 
-**Advanced Guides for developers**
+* Monitor transactions, sales, carts, products performance and more ...
+* See customer's entire profile, activity and history.
+* Find out which Marketing Campaign generates the most revenue, and those performing poorly. 
+* See which search terms are the most profitable. 
+* Follow in real time multiple KPI.
+* Access to multiple reports updated in real time from within your Wordpress dashboard.
 
-From analytics.js optimization guides to detailed explanations on how to make your site 100% GDPR compliant a large amount of up-to-date documentation is available in our [Developers Center](https://dev.afsanalytics.com/).
+
+** Also includes advanced Analytics features **
+
+* Heatmaps
+* Detailed user profile
+* Predictive analytics
+* Events tracking (AutoTrack)
+* SEO Keyword rank tracker tool
+
 
 
 
 **Live demo**
 
-A live demo is freely accessible from the plugin.
+A live demo is freely accessible from the plugin (no account required).
  
 
 
@@ -77,9 +89,16 @@ A live demo is freely accessible from the plugin.
 
 
 == Upgrade Notice ==
+
 Now includes a full featured dashboard right inside your admin dashboard.
 
 == Changelog ==
+
+= 2.02 =
+
+* Improved account creation workflow.
+* WooCommerce 4.2.0 support
+* Better handling of WooCommerce products with no sku.
 
 = 2.01 =
 

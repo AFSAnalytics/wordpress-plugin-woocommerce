@@ -28,8 +28,7 @@ jQuery( document ).ready(
 
 function create_account() {
 	var
-			// TODO update ACCOUNT CREATE URL
-			u = 'https://dev.afsanalytics.com/manage/account/create.php',
+			u = 'https://dev.afsanalytics.com/wordpress/signup',
 			s = AFSA_site_infos || null;
 
 	if ( ! s) {
@@ -51,8 +50,18 @@ function create_account() {
 
 	u +=
 			'&cms=' + encodeURIComponent( s.cms )
+
 			+ '&afsa_return_url=' + encodeURIComponent( s.return_url )
-			+ '&afsa_state=' + encodeURIComponent( s.state );
+			+ '&afsa_state=' + encodeURIComponent( s.state )
+			+ '&wp_version=' + encodeURIComponent( s.wp_version );
+
+	if (s.woo_version || null) {
+		u += '&woo_version=' + encodeURIComponent( s.woo_version );
+	}
+
+	if (s.plugin_version || null) {
+		u += '&plugin_version=' + encodeURIComponent( s.plugin_version );
+	}
 
 	if (s.paa_rc || null) {
 		u += '&paa_rc=' + encodeURIComponent( s.paa_rc );
