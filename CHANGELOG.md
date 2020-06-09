@@ -7,16 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## 2.02 - 2020-06-04
+## 2.0.3 - 2020-06-09
+
+- Fixed embedded dashboard access denied error.
+
+## 2.0.2 - 2020-06-04
 
 - Improved account creation workflow.
 - WooCommerce 4.2.0 support
 - Better handling of WooCommerce products with no sku.
 
-## 2.01 - 2020-05-30
+## 2.0.1 - 2020-05-30
 
 - Fixed nginx unsupported function call.
 
-## 2.00 - 2020-05-14
+## 2.0.0 - 2020-05-14
 
 - Major rewrite

@@ -3,7 +3,7 @@ Contributors: AddFreeStats
 Requires at least: 3.5.0
 Tested up to: 5.4.1
 Requires PHP: 5.3
-Stable tag: 2.02
+Stable tag: 2.03
 Tags: analytics, afsanalytics, woocommerce, heatmaps, real-time analytics, analytics dashboard, tracking, track visitor, admin tracking, statistics, counter, stats, tracking, track page, tracker, geolocation, sale tracking, user tracking, real-time tracking, visitor tracking, track visitors, online users, pageviews, counter, e-commerce tracking, track keyword, keyword position, woocommerce tracking, predictive analytics, referrer, website analytics, web analytics, website statistics
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,7 +20,7 @@ This version comes with enhanced WooCommerce support.
 https://www.youtube.com/watch?v=FQOHW3Ygijw
 
 
-** Monitor every aspect of your WooCommerce store **
+**Monitor every aspect of your WooCommerce store**
 
 * Monitor transactions, sales, carts, products performance and more ...
 * See customer's entire profile, activity and history.
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=FQOHW3Ygijw
 * Access to multiple reports updated in real time from within your Wordpress dashboard.
 
 
-** Also includes advanced Analytics features **
+**Also includes advanced Analytics features**
 
 * Heatmaps
 * Detailed user profile
@@ -93,6 +93,10 @@ A live demo is freely accessible from the plugin.
 Now includes a full featured dashboard right inside your admin dashboard.
 
 == Changelog ==
+
+= 2.03 =
+
+Fixed embedded dashboard access denied error.
 
 = 2.02 =
 
