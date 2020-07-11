@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
+## 2.0.5 - 2020-07-11
+
+- Added Gravatar support.
+- WooCommerce 4.3.0 support.
+- Fixed bug occuring when setting some GDPR options.
+
+
 ## 2.0.4 - 2020-06-23
 
 - Wordpress 5.4.2 support.
