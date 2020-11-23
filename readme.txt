@@ -94,6 +94,11 @@ Now includes a full featured dashboard right inside your admin dashboard.
 
 == Changelog ==
 
+= 2.07 =
+
+* WooCommerce 4.7.0 support.
+* Minor fixes.
+
 = 2.06 =
 
 * Wordpress 5.5 support.
@@ -102,13 +107,11 @@ Now includes a full featured dashboard right inside your admin dashboard.
 * Improved WooComerce checkout steps detection. 
 * Added fr_CA and fr_BE localisation files.
 
-
 = 2.05 =
 
 * Added Gravatar support.
 * WooCommerce 4.3.0 support.
 * Fixed bug occuring when setting some GDPR options.
-
 
 = 2.03 =
 
