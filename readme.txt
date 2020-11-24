@@ -3,7 +3,7 @@ Contributors: AddFreeStats
 Requires at least: 3.5.0
 Tested up to: 5.5
 Requires PHP: 5.3
-Stable tag: 2.06
+Stable tag: 2.07
 Tags: analytics, afsanalytics, woocommerce, heatmaps, real-time analytics, analytics dashboard, tracking, track visitor, admin tracking, statistics, counter, stats, tracking, track page, tracker, geolocation, sale tracking, user tracking, real-time tracking, visitor tracking, track visitors, online users, pageviews, counter, e-commerce tracking, track keyword, keyword position, woocommerce tracking, predictive analytics, referrer, website analytics, web analytics, website statistics
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
