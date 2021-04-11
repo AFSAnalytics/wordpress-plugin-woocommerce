@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 2.0.8 - 2020-04-12
+
+- Wordpress 5.7 support.
+- WooCommerce 5.1.0 support.
+- Embedded dashboard optimizations.
+
+## 2.0.7 - 2020-11-24
+
+- WooCommerce 4.7.0 support.
+- Minor fixes.
+
 ## 2.0.6 - 2020-08-27
 
 - Wordpress 5.5 support.
