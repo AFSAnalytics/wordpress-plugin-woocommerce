@@ -94,6 +94,12 @@ Now includes a full featured dashboard right inside your admin dashboard.
 
 == Changelog ==
 
+= 2.12 =
+
+* Wordpress 5.9 support.
+* WooCommerce 5.9 support.
+
+
 = 2.11 =
 
 * Added ability to hide own visits via settings.
