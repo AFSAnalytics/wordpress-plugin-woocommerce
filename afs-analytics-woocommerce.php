@@ -4,13 +4,13 @@
   Plugin Name: AFS Analytics for WooCommerce
   Plugin URI: https://www.afsanalytics.com/
   Description: Advanced eCommerce Analytics solution. Grow your online business by measuring user satisfaction and site efficiency.
-  Version: 2.13
+  Version: 2.14
   Author: AFS Analytics
   Author URI: https://www.afsanalytics.com/
   Text Domain: afsanalytics
   Domain Path: /languages
   WC requires at least: 1.4.1
-  WC tested up to: 5.9.1
+  WC tested up to: 6.5.1
  */
 
 
@@ -36,7 +36,7 @@ if ( ! class_exists( 'AFSA_Core_Stats_Plugin' ) ) :
 
 
 	define( 'AFSA_DEBUG_MODE', false );
-	define( 'AFSA_MODULE_VERSION', '2.0.13' );
+	define( 'AFSA_MODULE_VERSION', '2.0.14' );
 
 	class AFSA_Core_Stats_Plugin {
 
