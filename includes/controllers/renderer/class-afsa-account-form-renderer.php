@@ -41,7 +41,7 @@ class AFSA_Account_Form_Renderer {
 
 		$account_id = empty( $_POST['afsa_linked_account_id'] ) ?
 				null :
-				filter_var( $_POST['afsa_linked_account_id'], FILTER_SANITIZE_STRING );
+				sanitize_text_field( $_POST['afsa_linked_account_id'] );
 
 		if ( AFSA_Config::validate_account_id( $account_id ) ) {
 
