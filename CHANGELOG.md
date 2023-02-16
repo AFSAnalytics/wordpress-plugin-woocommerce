@@ -7,10 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## 2.1.5 - 2022-11-02
+## 2.1.6 - 2023-02-16
 
-- Wordpress 6.1 support.
-- WooCommerce 7.0.1 support.
+- Wordpress 6.1.1 support.
+- WooCommerce 7.4.0 support.
 
 ## 2.1.4 - 2022-06-13
 
